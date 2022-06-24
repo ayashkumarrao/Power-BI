@@ -3,7 +3,9 @@
 
 ## Dashboard View
 
-![Logos](https://drive.google.com/file/d/1UFF0i83rLsoaY4ne3IpM8s2sw40D5FrY/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1UFF0i83rLsoaY4ne3IpM8s2sw40D5FrY"><img src="https://drive.google.com/uc?export=view&id=1UFF0i83rLsoaY4ne3IpM8s2sw40D5FrY" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+
 
 ## Data Discription
 
